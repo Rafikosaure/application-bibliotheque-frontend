@@ -1,0 +1,22 @@
+form {
+    width: 100%;
+    height: auto;
+    gap: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    width: 40%;
+    height: 24px;
+    padding-left: 10px;
+    background-color: lightblue;
+}
+
+button {
+    width: 10%;
+    height: 24px;
+    background-color: lightblue;
+}
